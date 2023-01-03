@@ -10,6 +10,7 @@ body {
 }
 
 main {
+    margin: 7.5% 20%;
     background-color: #F5F5F5;
     height: 400px;
     max-width: 800px;

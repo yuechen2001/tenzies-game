@@ -1,7 +1,4 @@
 <div id="readme-top"></div>
-
-## Tenzies: https://tenzies-yuechen.netlify.app/
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 

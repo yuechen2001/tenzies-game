@@ -2,35 +2,13 @@
 
 ## Tenzies: https://tenzies-yuechen.netlify.app/
 
-<img width = "720" height = "400" src="https://user-images.githubusercontent.com/64315146/210557904-7af84919-b18f-47f6-bb0d-518abb07f669.png">
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-        <li><a href="#instructions">Instructions</a></li>
-      </ul>
-    </li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a Tenzies game that I built using ReactJS. 
-
-### Instructions
-
-The goal of the game is to make sure all dies are of the same number. To start, choose a number and click on all dies that correspond to that number. Click on "Roll" and repeat the process. Once all die are of the same colour and in green, you win! Click on "New Game" to start up another round. 
+A collection of algorithms and games that I have made using Python and the Pygame libraries 
 
 ### Built With
-* [![React][React.js]][React-url]
+* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 

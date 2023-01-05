@@ -28,7 +28,7 @@ This is a Tenzies game that I built using ReactJS.
 
 ### Instructions
 
-The goal of the game is to make sure all dies are of the same number. To start, choose a number and click on all dies that correspond to that number. Click on "Roll" and repeat the process. Once all die are of the same colour and in green, you win! Click on "New Game" to start up another round. 
+The goal of the game is to make sure all dices are of the same number. To start, choose a number and click on all dices that correspond to that number. Click on "Roll" and repeat the process. Once all dices are of the same colour and in green, you win! Click on "New Game" to start up another round. 
 
 ### Built With
 * [![React][React.js]][React-url]

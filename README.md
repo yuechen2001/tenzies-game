@@ -1,6 +1,7 @@
 <div id="readme-top"></div>
 
-## Tenzies: https://tenzies-yuechen.netlify.app/
+## Tenzies
+### https://tenzies-yuechen.netlify.app/
 
 <img width = "720" height = "400" src="https://user-images.githubusercontent.com/64315146/210557904-7af84919-b18f-47f6-bb0d-518abb07f669.png">
 <!-- TABLE OF CONTENTS -->
